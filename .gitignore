@@ -20,3 +20,5 @@ dependency-reduced-pom.xml
 myTestSpring/notify-subscription.log.*
 *.log.*
 *.txt
+automation/PreClassMenu_auto_*.jmx
+automation/test_*.jtl
